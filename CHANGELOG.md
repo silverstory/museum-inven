@@ -7,6 +7,17 @@
 
 ---
 
+## [v0.0.4](https://#)
+>  February 10 2025
+
+### Added
+
+- Added [User Management Page]() with [```roles```]().
+- Added [Add User]() page.
+- Added ```User Management Page``` [```search and filter```]() functionality.
+
+---
+
 ## [v0.0.2](https://#)
 >  February 04 2025
 
@@ -46,9 +57,9 @@
 ### Application components to develop
 
 - ~~Create [Login Page]().~~
-- Create [User Management Page]() with [```roles```]() and [```location```]() identifiers.
-- Create [Add User]() page.
-- Create ```User Management Page``` [```search and filter```]() functionality.
+- ~~Create [User Management Page]() with [```roles```]() and [```location```]() identifiers.~~
+- ~~Create [Add User]() page.~~
+- ~~Create ```User Management Page``` [```search and filter```]() functionality.~~
 - Create [Main Dashboard]() with features where user can switch between location tabs.
 - Create [```inventory items paginated list```]() feature.
 - Create [```Add inventory item```]() page.
