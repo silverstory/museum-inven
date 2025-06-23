@@ -30,9 +30,9 @@
 *.xls
 # Ignore all Excel files in the data directory
 
-./notebook/raw_data
+./notebook/raw-data
 # Ignore the raw_data directory and its contents
-/notebook/raw_data
+/notebook/raw-data
 # Ignore the raw_data directory and its contents
 *.csv
 # Ignore all CSV files in the raw_data directory
