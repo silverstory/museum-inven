@@ -1,0 +1,59 @@
+./notebook/data
+/notebook/data
+# Ignore the data directory and its contents
+*.csv
+# Ignore all CSV files in the data directory
+*.json
+# Ignore all JSON files in the data directory
+*.log
+# Ignore all log files in the data directory
+*.tmp
+# Ignore all temporary files in the data directory
+*.bak
+# Ignore all backup files in the data directory
+*.zip
+# Ignore all zip files in the data directory
+*.tar.gz
+# Ignore all tar.gz files in the data directory
+*.tar.bz2
+# Ignore all tar.bz2 files in the data directory
+*.tar.xz
+# Ignore all tar.xz files in the data directory
+*.db
+# Ignore all database files in the data directory
+*.sqlite
+# Ignore all SQLite database files in the data directory
+*.dbf
+# Ignore all DBF files in the data directory
+*.xlsx
+# Ignore all Excel files in the data directory
+*.xls
+# Ignore all Excel files in the data directory
+
+./notebook/raw_data
+# Ignore the raw_data directory and its contents
+/notebook/raw_data
+# Ignore the raw_data directory and its contents
+*.csv
+# Ignore all CSV files in the raw_data directory
+*.json
+# Ignore all JSON files in the raw_data directory
+*.log
+# Ignore all log files in the raw_data directory
+*.tmp
+# Ignore all temporary files in the raw_data directory
+*.bak
+# Ignore all backup files in the raw_data directory
+*.zip
+# Ignore all zip files in the raw_data directory
+*.tar.gz
+# Ignore all tar.gz files in the raw_data directory
+*.tar.bz2
+# Ignore all tar.bz2 files in the raw_data directory
+*.tar.xz
+# Ignore all tar.xz files in the raw_data directory
+
+./excel
+# Ignore the excel directory and its contents
+/excel
+# Ignore the excel directory and its contents
