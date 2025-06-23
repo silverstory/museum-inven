@@ -30,28 +30,28 @@
 *.xls
 # Ignore all Excel files in the data directory
 
-./notebook/raw-data
-# Ignore the raw_data directory and its contents
-/notebook/raw-data
-# Ignore the raw_data directory and its contents
+./notebook/rawdata
+# Ignore the rawdata directory and its contents
+/notebook/rawdata
+# Ignore the rawdata directory and its contents
 *.csv
-# Ignore all CSV files in the raw_data directory
+# Ignore all CSV files in the rawdata directory
 *.json
-# Ignore all JSON files in the raw_data directory
+# Ignore all JSON files in the rawdata directory
 *.log
-# Ignore all log files in the raw_data directory
+# Ignore all log files in the rawdata directory
 *.tmp
-# Ignore all temporary files in the raw_data directory
+# Ignore all temporary files in the rawdata directory
 *.bak
-# Ignore all backup files in the raw_data directory
+# Ignore all backup files in the rawdata directory
 *.zip
-# Ignore all zip files in the raw_data directory
+# Ignore all zip files in the rawdata directory
 *.tar.gz
-# Ignore all tar.gz files in the raw_data directory
+# Ignore all tar.gz files in the rawdata directory
 *.tar.bz2
-# Ignore all tar.bz2 files in the raw_data directory
+# Ignore all tar.bz2 files in the rawdata directory
 *.tar.xz
-# Ignore all tar.xz files in the raw_data directory
+# Ignore all tar.xz files in the rawdata directory
 
 ./excel
 # Ignore the excel directory and its contents
