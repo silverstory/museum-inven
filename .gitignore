@@ -24,11 +24,6 @@
 *.sqlite
 # Ignore all SQLite database files in the data directory
 *.dbf
-# Ignore all DBF files in the data directory
-*.xlsx
-# Ignore all Excel files in the data directory
-*.xls
-# Ignore all Excel files in the data directory
 
 ./notebook/rawdata
 # Ignore the rawdata directory and its contents
@@ -53,7 +48,7 @@
 *.tar.xz
 # Ignore all tar.xz files in the rawdata directory
 
-./excel
-# Ignore the excel directory and its contents
-/excel
-# Ignore the excel directory and its contents
+./datagen
+# Ignore the datagen directory and its contents
+/datagen
+# Ignore the datagen directory and its contents
