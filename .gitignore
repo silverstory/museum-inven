@@ -52,3 +52,13 @@
 # Ignore the datagen directory and its contents
 /datagen
 # Ignore the datagen directory and its contents
+
+./proddata
+# Ignore the proddata directory and its contents
+/proddata
+# Ignore the proddata directory and its contents
+
+./output
+# Ignore the output directory and its contents
+/output
+# Ignore the output directory and its contents
